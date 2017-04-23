@@ -131,7 +131,7 @@ module Snapcat
     end
 
     def request_headers
-      {'User-Agent' => 'Snapchat/8.1.1 (iPhone; iOS 8.1.1; gzip)',
+      {'User-Agent' => 'Snapchat/10.6.6 (iPhone; iOS 8.1.1; gzip)',
        'Accept-Language' => 'en',
        'Accept-Locale' => 'en'}
     end
